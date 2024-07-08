@@ -18,7 +18,7 @@ import java.util.concurrent.atomic.AtomicReference;
 
 
 @SpringBootTest
-class BeerServiceImplTest {
+public class BeerServiceImplTest {
 
     @Autowired
     BeerService beerService;
